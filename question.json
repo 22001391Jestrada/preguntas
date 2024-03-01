@@ -1,0 +1,103 @@
+{"questions":
+    [
+        {"question": "Wich material it's used to create clocks inside of minecraft?",
+        "options": ["Diamonds", "Redstone", "Gold", "Silver"],
+        "answer": "Resdton"
+        },
+
+        {"question": "wich one is the final boss in minecraft?",
+        "options": ["End dragon", "Wither", "Golem", "Fox"],
+        "answer": "End Dragon"
+        },
+
+        {"question": "When you start the game, what's on ur inventory?",
+        "options": ["Nothing", "Bread", "An apple", "Ramdom Object"],
+        "answer": "Nothing"
+        },
+
+        {"question": "What's the name of your character?",
+        "options": ["Steve", "Alex", "Rubius", "Alexby"],
+        "answer": "Steve"
+        },
+
+        {"question": "Wich one is the most resistent materila on minecraft?",
+        "options": ["Diamond", "Gold", "Silver", "Netherite"],
+        "answer": "Netherite"
+        },
+
+        {"question": "How do you find the end Dragon?",
+        "options": ["Running", "Teleporting", "Going trough a portal", "Flying"],
+        "answer": "Going through a portal"
+        },
+
+        {"question": "how kills you the creeper?",
+        "options": ["Exploding you", "Chocking you", "Cutting you", "biting you"],
+        "answer": "Exploding you"
+        },
+
+        {"question": "which one is no a mob from minecraft?",
+        "options": ["Creeper", "Zombie", "Enderman", "Garen"],
+        "answer": "Garen"
+        },
+
+        {"question": "wich one is a building that it can't be made on minecraft?",
+        "options": ["Megarobot", "Elevator", "Bridge", "Giant statue"],
+        "answer": "Megarobot"
+        },
+
+        {"question": "what is the most difficult material to find on minecraft?",
+        "options": ["Redstone", "Diamond", "Gold", "Silver"],
+        "answer": "Diamond"
+        },
+
+        {"question": "how many times can you die in hard mode on minecraft?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+        },
+
+        {"question": "how many times can you die in creative mode on minecraft?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "0"
+        },
+
+        {"question": "how many times can you die on normal mode?",
+        "options": ["1", "2", "3", "infinite times"],
+        "answer": "infinite times"
+        },
+
+        {"question": "what is the number of items that a stack means in minecraft?",
+        "options": ["32", "64", "128", "256"],
+        "answer": "64"
+        },
+
+        {"question": "how many differente places has a craft table",
+        "options": ["4", "6", "9", "12"],
+        "answer": "9"
+        },
+
+        {"question": "what is the most required material on the game?",
+        "options": ["wood", "cobelstone", "silver", "sand"],
+        "answer": "wood"
+        },
+
+        {"question": "does steve has any special habilities?",
+        "options": ["nothing", "suoer strenght", "super speed", "flying"],
+        "answer": "nothing"
+        },
+
+        {"question": "what is the most compolex that you can make inside of minecraft",
+        "options": ["computer", "calculator", "elevator", "plane"],
+        "answer": "computer"
+        },
+
+        {"question": "in wich language is programmed minecraft?",
+        "options": ["java", "c++", "python", "pascal"],
+        "answer": "java"
+        },
+
+        {"question": "pick a number",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+        }
+    ]
+}
